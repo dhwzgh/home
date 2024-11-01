@@ -2,36 +2,51 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.502801.xyz/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "iOS 软件安装",
+    "link": "https://ipazxnz.github.io/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.502801.xyz"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://nav.502801.xyz"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "影视",
+    "link": "https://ys.yyss.cloudns.ch/"
+  },
+  {
+    "icon": "Book",
+    "name": "其他",
+    "link": "https://dhwzgh.github.io/"
+  },
+  {
+    "icon": "Book",
+    "name": "在线文档",
+    "link": "https://wdmm.zzcc.cloudns.org/"
+  },
+  {
+    "icon": "Book",
+    "name": "笔记本",
+    "link": "https://memos.sdjq.eu.org/"
+  },
+  {
+    "icon": "Fire",
+    "name": "站点监测",
+    "link": "https://zdjk.502801.xyz"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "服务器监测",
+    "link": "http://nz.mfdd.eu.org:8080"
   }
 ]
