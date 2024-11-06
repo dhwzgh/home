@@ -45,6 +45,11 @@
     "link": "https://zdjk.502801.xyz"
   },
   {
+    "icon": "EnvelopeRegular",
+    "name": "临时邮箱",
+    "link": "https://email.mndd.eu.org"
+  },  
+  {
     "icon": "LaptopCode",
     "name": "服务器监测",
     "link": "http://nz.mfdd.eu.org:8080"
