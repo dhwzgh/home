@@ -30,9 +30,9 @@
     "link": "https://dhwzgh.github.io/"
   },
   {
-    "icon": "FolderOpenRegular",
-    "name": "在线文档",
-    "link": "https://wdmm.zzcc.cloudns.org/"
+    "icon": "PhotoVideo",
+    "name": "在线图库",
+    "link": "https://www.tuku.cloudns.ch/"
   },
   {
     "icon": "Book",
@@ -58,5 +58,10 @@
     "icon": "LaptopCode",
     "name": "服务器监测",
     "link": "https://nz.xfdd.eu.org/"
+  },
+  {
+    "icon": "FolderOpenRegular",
+    "name": "在线文档",
+    "link": "https://wdmm.zzcc.cloudns.org/"
   }
 ]
