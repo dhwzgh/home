@@ -40,6 +40,11 @@
     "link": "https://memos.wtls.us.kg/"
   },
   {
+    "icon": "PaintBrush",
+    "name": "sub 订阅转换",
+    "link": "https://sub.aadd.cloudns.ch/"
+  },
+  {
     "icon": "Fire",
     "name": "站点监测",
     "link": "https://zdjk.502801.xyz"
