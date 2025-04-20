@@ -2,36 +2,71 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.502801.xyz/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "iOS 软件安装",
+    "link": "https://ipazxnz.github.io/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music2.502801.xyz/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://nav.502801.xyz"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "影视",
+    "link": "https://ys.yyss.cloudns.ch/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "Book",
+    "name": "其他",
+    "link": "https://dhwzgh.github.io/"
+  },
+  {
+    "icon": "PhotoVideo",
+    "name": "在线图库",
+    "link": "https://www.tuku.cloudns.ch/"
+  },
+  {
+    "icon": "Book",
+    "name": "笔记本",
+    "link": "https://memos.zbzb.eu.org/"
+  },
+  {
+    "icon": "PaintBrush",
+    "name": "sub 订阅转换",
+    "link": "https://sub.aadd.cloudns.ch/"
+  },
+  {
+    "icon": "Fire",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://zdjk.502801.xyz"
+  },
+  {
+    "icon": "EnvelopeRegular",
+    "name": "临时邮箱",
+    "link": "https://email.mndd.eu.org"
+  },  
+  {
+    "icon": "Terminal",
+    "name": "SSH_Web",
+    "link": "https://webssh.121810.xyz/"
+  },  
+  {
+    "icon": "LaptopCode",
+    "name": "服务器监测",
+    "link": "https://nz.121810.xyz/"
+  },
+  {
+    "icon": "FolderOpenRegular",
+    "name": "在线文档",
+    "link": "https://wdmm.zzcc.cloudns.org/"
   }
 ]
