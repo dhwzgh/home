@@ -6,8 +6,8 @@
   },
   {
     "icon": "Cloud",
-    "name": "iOS 软件安装",
-    "link": "https://ipazxnz.github.io/"
+    "name": "Openlist",
+    "link": "https://hfolist.121810.xyz/"
   },
   {
     "icon": "CompactDisc",
@@ -24,6 +24,11 @@
     "name": "影视",
     "link": "https://hftvmd.ddaa.cc.cd/"
   },
+  {
+    "icon": "AppStoreIos",
+    "name": "IOS 软件安装",
+    "link": "https://ipazxnz.github.io/"
+  }, 
   {
     "icon": "Book",
     "name": "其他",
