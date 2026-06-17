@@ -30,6 +30,11 @@
     "link": "https://ipazxnz.github.io/"
   }, 
   {
+    "icon": "EditRegular",
+    "name": "AI作画",
+    "link": "https://hfchatgpt-image-web.121810.xyz/"
+  },
+  {
     "icon": "Book",
     "name": "其他",
     "link": "https://dhwzgh.github.io/"
@@ -37,7 +42,7 @@
   {
     "icon": "PhotoVideo",
     "name": "在线图库",
-    "link": "https://tuku.121810.xyz"
+    "link": "https://hftk.121810.xyz/"
   },
   {
     "icon": "Book",
@@ -48,11 +53,6 @@
     "icon": "PaintBrush",
     "name": "sub 订阅转换",
     "link": "https://sub.aadd.cloudns.ch/"
-  },
-  {
-    "icon": "Fire",
-    "name": "站点监测",
-    "link": "https://zdjk.502801.xyz"
   },
   {
     "icon": "EnvelopeRegular",
@@ -68,6 +68,16 @@
     "icon": "LaptopCode",
     "name": "服务器监测",
     "link": "https://snz.121810.xyz/"
+  },
+  {
+    "icon": "Book",
+    "name": "其他",
+    "link": "https://dhwzgh.github.io/"
+  },
+  {
+    "icon": "Fire",
+    "name": "站点监测",
+    "link": "https://zdjk.502801.xyz"
   },
   {
     "icon": "FolderOpenRegular",
